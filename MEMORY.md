@@ -177,7 +177,7 @@
 ## 待办事项
 
 ### 高优先级
-- [ ] X(Twitter) Nitter爬取配置 (requests/beautifulsoup4)
+- [ ] X(Twitter) API额度问题 (402 CreditsDepleted，需检查账户配置)
 - [ ] 等待Kimi API速率限制恢复
 - [ ] VirusTotal标记问题 - 影响高评分技能安装
 
@@ -185,7 +185,7 @@
 - [x] 每小时技能学习系统部署
 - [x] 管家体系架构部署 [2026-02-25]
 - [x] B站短剧区 → X(Twitter)AI监控 [2026-02-25]
-- [ ] X API接入配置（待实现）
+- [ ] X数据获取 (Nitter测试失败，尝试备用方案)
 - [ ] 飞书消息读取配置（回调地址模式）
 
 ### 视频管家待办
