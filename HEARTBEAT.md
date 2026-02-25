@@ -34,7 +34,7 @@ cd ~/.openclaw/workspace && python3 scripts/bilibili-account-fetch.py
 ```bash
 cd ~/.openclaw/workspace && python3 scripts/ai-intelligence-monitor.py
 ```
-**说明**: 泛AI情报监控（B站科技区热门AI内容）
+**说明**: 泛AI情报监控（B站全站AI相关内容，不限分区）
 
 ### fetch_x_ai_trending
 **触发**: 每天 06:00, 12:00, 18:00, 00:00 (每天4次)
@@ -66,7 +66,7 @@ cd ~/.openclaw/workspace && git add . && git commit -m "auto: $(date +%Y-%m-%d-%
 |------|------|------|
 | 06:00 | X(Twitter)AI热门 | 国际AI热点 |
 | 09:00 | B站账号数据获取 | 个人账号报告 |
-| 09:00 | 泛AI情报监控 | 科技区热门 |
+| 09:00 | 泛AI情报监控 | 全站AI热门 |
 | 09:30 | 生成统一汇报 | 完整日报 |
 | 09:35 | 同步到飞书 | Wiki更新 |
 | 10:00 | B站科技区爬取 | 国内AI视频 |
@@ -78,7 +78,7 @@ cd ~/.openclaw/workspace && git add . && git commit -m "auto: $(date +%Y-%m-%d-%
 ## 汇报内容模块
 
 - **B站账号数据**: 粉丝数、播放量、视频表现（Cookie登录获取）
-- **B站科技区**: AI热门视频Top 10（国内热点）
+- **B站全站AI**: AI热门视频Top 10（全站关键词搜索）
 - **X(Twitter)AI**: 热门推文Top 10（国际热点）
 - **技能学习**: 今日学习的新技能（每小时学习记录）
 - **系统状态**: 定时任务运行状态监控

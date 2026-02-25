@@ -274,5 +274,19 @@
       "preview": "accessibility.md\n182.0k\n1\n2\n3\n4\nexport accessibility\nfrom \"microsoft/vscode\"\nAccessibility guideline"
     },
     "details": "Skip to main content\nready\n~/\nskillsmp\n$\nai\n--search\n$\ncd\n/categories\n$\nwatch\nstats\n$\nman\ndocs\n$\napi\n--docs"
+  },
+  {
+    "timestamp": "2026-02-25T13:05:15.541Z",
+    "hour": 21,
+    "category": "⚙️ 自动化",
+    "searchQuery": "workflow",
+    "skillLearned": {
+      "name": "prose",
+      "stars": "222.6k",
+      "link": "https://skillsmp.com/skills/openclaw-openclaw-extensions-open-prose-skills-prose-skill-md",
+      "path": "openclaw-openclaw-extensions-open-prose-skills-prose-skill-md",
+      "preview": "prose.md\n222.6k\n1\n2\n3\n4\nexport prose\nfrom \"openclaw/openclaw\"\nOpenProse VM skill pack. Activate on a"
+    },
+    "details": "Skip to main content\nready\n~/\nskillsmp\n$\nai\n--search\n$\ncd\n/categories\n$\nwatch\nstats\n$\nman\ndocs\n$\napi\n--docs\nEN"
   }
 ]
