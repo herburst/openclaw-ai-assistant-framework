@@ -26,7 +26,10 @@
     "ai-news-zh",
     "photo-captions",
     "instagram-photo-text-overlay",
-    "instagram-photo-find"
+    "instagram-photo-find",
+    "discord-graphics-generation",
+    "svg-draw",
+    "svg"
   ],
   "keywordIndex": 3
 }
