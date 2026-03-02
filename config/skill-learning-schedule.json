@@ -1,18 +1,18 @@
 {
   "version": "1.0",
   "updated": "2026-02-28",
-  "user_identity": "AI自媒体博主",
+  "user_identity": "A股短线投资博主",
   "schedule": {
-    "00:00-12:00": {
-      "name": "视觉创作时段",
-      "focus": "视频、图像、提示词类技能",
+    "12:00-24:00": {
+      "name": "股票策略分析时段",
+      "focus": "K线数据分析、情绪抓取、板块预估、股票选择、自动交易",
       "keywords": [
-        "image", "video", "prompt", "ai-art", "generation",
-        "midjourney", "stable-diffusion", "dalle", "visual",
-        "design", "graphics", "photo", "editing", "creative"
+        "AkShare", "Tushare", "BaoStock", "Backtrader", "Qlib",
+        "量价配合", "换手率分析", "分时图承接力度", "常见反转形态",
+        "跳空缺口理论", "水下捞人/深水炸弹", "题材共振", "行业景气度拐点", "政策催化剂", "市场情绪周期", "连板高度/连板梯队", "龙头战法", "打板策略"
       ]
     },
-    "12:00-24:00": {
+    "00:00-12:00": {
       "name": "自媒体运营时段",
       "focus": "内容创作、社交媒体、数据分析、自动化",
       "keywords": [
@@ -23,9 +23,9 @@
     }
   },
   "hourly_rotation": {
-    "00-04": ["image", "prompt", "ai-art", "generation"],
-    "04-08": ["video", "editing", "production", "creative"],
-    "08-12": ["design", "graphics", "photo", "visual"],
+    "00-04": ["AkShare", "Tushare", "BaoStock", "Backtrader"],
+    "04-08": ["量价配合", "换手率分析", "分时图承接力度", "常见反转形态"],
+    "08-12": ["题材共振", "市场情绪周期", "龙头战法", "打板策略"],
     "12-16": ["content", "writing", "copywriting", "blog"],
     "16-20": ["social", "twitter", "weibo", "engagement"],
     "20-24": ["analytics", "automation", "seo", "marketing"]
